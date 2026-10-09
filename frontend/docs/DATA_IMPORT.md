@@ -16,19 +16,19 @@ Keep `npm run worker` running in a second terminal for reservation expiry. Seed 
 
 ## Exact mapping
 
-| CSV field | App field / behavior |
-|---|---|
-| product_id | Stable SKU; lowercase, underscore-to-hyphen slug |
-| title, category, description | Searchable product fields |
-| discounted_price | INR rupees converted to integer pricePaise; used by checkout |
-| original_price | catalogue.originalPricePaise; retained metadata |
-| image_url | Normal-mode photo; local placeholder on load error |
-| availability | Initial demo inventory: In Stock=20, Limited Stock=3, Out of Stock=0 |
+| CSV field | App field / behavior                                                        |
+|---|-----------------------------------------------------------------------------|
+| product_id | Stable SKU; lowercase, underscore-to-hyphen slug                            |
+| title, category, description | Searchable product fields                                                   |
+| discounted_price | INR rupees converted to integer pricePaise; used by checkout                |
+| original_price | catalogue.originalPricePaise; retained metadata                             |
+| image_url | Normal-mode photo; local placeholder on load error                          |
+| availability | Initial demo inventory: In Stock=20, Limited Stock=3, Out of Stock=0        |
 | brand, subcategory, material, sizes_available | Product detail metadata; sizes are descriptive, not selectable SKU variants |
-| rating, review_count | Clearly labeled sample rating/count, no invented review text |
-| seller_name | Sample seller label; location joined only on exact sellers.csv name match |
-| delivery_time, return_policy | Source sample labels; no actual delivery or returns service |
-| All original columns | sourceRecord retained in MongoDB, not returned wholesale to clients |
+| rating, review_count | Clearly labeled Rating/count, no invented review text                       |
+| seller_name | Sample seller label; location joined only on exact sellers.csv name match   |
+| delivery_time, return_policy | Source sample labels; no actual delivery or returns service                 |
+| All original columns | sourceRecord retained in MongoDB, not returned wholesale to clients         |
 
 All 1,000 products are imported, including 310 initially out-of-stock entries. There are 12 distinct product categories. All 51 category, 200 seller, and 9 navigation rows are imported into CPCatalogueReference with a unique (kind, sourceId) index. They are reference data, not authenticated sellers or public navigation links. The storefront derives category filters from actual active products so unrelated source categories do not create empty filters.
 
