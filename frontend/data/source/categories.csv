@@ -1,0 +1,52 @@
+category_id,name,parent_category,level,product_count,url,image_url,is_active
+CAT_8966,Women Clothing,,1,3661,https://www.meesho.com/category/women-clothing,https://images.meesho.com/categories/women_clothing.jpg,True
+CAT_9898,Kurtas,Women Clothing,2,611,https://www.meesho.com/category/kurtas,https://images.meesho.com/categories/kurtas.jpg,True
+CAT_6428,Sarees,Women Clothing,2,349,https://www.meesho.com/category/sarees,https://images.meesho.com/categories/sarees.jpg,True
+CAT_4385,Dresses,Women Clothing,2,902,https://www.meesho.com/category/dresses,https://images.meesho.com/categories/dresses.jpg,True
+CAT_2504,Tops,Women Clothing,2,997,https://www.meesho.com/category/tops,https://images.meesho.com/categories/tops.jpg,True
+CAT_5883,Suits,Women Clothing,2,588,https://www.meesho.com/category/suits,https://images.meesho.com/categories/suits.jpg,True
+CAT_7048,Ethnic Wear,Women Clothing,2,202,https://www.meesho.com/category/ethnic-wear,https://images.meesho.com/categories/ethnic_wear.jpg,True
+CAT_8802,Men Clothing,,1,3370,https://www.meesho.com/category/men-clothing,https://images.meesho.com/categories/men_clothing.jpg,True
+CAT_7815,Shirts,Men Clothing,2,363,https://www.meesho.com/category/shirts,https://images.meesho.com/categories/shirts.jpg,True
+CAT_7400,T-Shirts,Men Clothing,2,746,https://www.meesho.com/category/t-shirts,https://images.meesho.com/categories/t-shirts.jpg,True
+CAT_2798,Jeans,Men Clothing,2,862,https://www.meesho.com/category/jeans,https://images.meesho.com/categories/jeans.jpg,True
+CAT_9898,Kurtas,Men Clothing,2,353,https://www.meesho.com/category/kurtas,https://images.meesho.com/categories/kurtas.jpg,True
+CAT_7048,Ethnic Wear,Men Clothing,2,967,https://www.meesho.com/category/ethnic-wear,https://images.meesho.com/categories/ethnic_wear.jpg,True
+CAT_722,Casual Wear,Men Clothing,2,322,https://www.meesho.com/category/casual-wear,https://images.meesho.com/categories/casual_wear.jpg,True
+CAT_4486,Kids Clothing,,1,1995,https://www.meesho.com/category/kids-clothing,https://images.meesho.com/categories/kids_clothing.jpg,True
+CAT_8722,Boys Clothing,Kids Clothing,2,230,https://www.meesho.com/category/boys-clothing,https://images.meesho.com/categories/boys_clothing.jpg,True
+CAT_4043,Girls Clothing,Kids Clothing,2,582,https://www.meesho.com/category/girls-clothing,https://images.meesho.com/categories/girls_clothing.jpg,True
+CAT_72,Baby Clothing,Kids Clothing,2,122,https://www.meesho.com/category/baby-clothing,https://images.meesho.com/categories/baby_clothing.jpg,True
+CAT_3270,School Uniforms,Kids Clothing,2,405,https://www.meesho.com/category/school-uniforms,https://images.meesho.com/categories/school_uniforms.jpg,True
+CAT_6731,Home & Kitchen,,1,1250,https://www.meesho.com/category/home-&-kitchen,https://images.meesho.com/categories/home_&_kitchen.jpg,True
+CAT_3035,Kitchen Appliances,Home & Kitchen,2,688,https://www.meesho.com/category/kitchen-appliances,https://images.meesho.com/categories/kitchen_appliances.jpg,True
+CAT_5606,Home Decor,Home & Kitchen,2,143,https://www.meesho.com/category/home-decor,https://images.meesho.com/categories/home_decor.jpg,True
+CAT_628,Bedding,Home & Kitchen,2,363,https://www.meesho.com/category/bedding,https://images.meesho.com/categories/bedding.jpg,True
+CAT_4774,Storage,Home & Kitchen,2,415,https://www.meesho.com/category/storage,https://images.meesho.com/categories/storage.jpg,True
+CAT_7399,Cleaning,Home & Kitchen,2,354,https://www.meesho.com/category/cleaning,https://images.meesho.com/categories/cleaning.jpg,True
+CAT_9259,Beauty & Health,,1,1437,https://www.meesho.com/category/beauty-&-health,https://images.meesho.com/categories/beauty_&_health.jpg,True
+CAT_7691,Skincare,Beauty & Health,2,540,https://www.meesho.com/category/skincare,https://images.meesho.com/categories/skincare.jpg,True
+CAT_5245,Makeup,Beauty & Health,2,371,https://www.meesho.com/category/makeup,https://images.meesho.com/categories/makeup.jpg,True
+CAT_7741,Hair Care,Beauty & Health,2,134,https://www.meesho.com/category/hair-care,https://images.meesho.com/categories/hair_care.jpg,True
+CAT_1258,Personal Care,Beauty & Health,2,772,https://www.meesho.com/category/personal-care,https://images.meesho.com/categories/personal_care.jpg,True
+CAT_8471,Health Supplements,Beauty & Health,2,532,https://www.meesho.com/category/health-supplements,https://images.meesho.com/categories/health_supplements.jpg,True
+CAT_9330,Bags & Footwear,,1,1529,https://www.meesho.com/category/bags-&-footwear,https://images.meesho.com/categories/bags_&_footwear.jpg,True
+CAT_2467,Handbags,Bags & Footwear,2,728,https://www.meesho.com/category/handbags,https://images.meesho.com/categories/handbags.jpg,True
+CAT_5288,Shoes,Bags & Footwear,2,196,https://www.meesho.com/category/shoes,https://images.meesho.com/categories/shoes.jpg,True
+CAT_4803,Sandals,Bags & Footwear,2,518,https://www.meesho.com/category/sandals,https://images.meesho.com/categories/sandals.jpg,True
+CAT_4679,Backpacks,Bags & Footwear,2,130,https://www.meesho.com/category/backpacks,https://images.meesho.com/categories/backpacks.jpg,True
+CAT_4734,Wallets,Bags & Footwear,2,501,https://www.meesho.com/category/wallets,https://images.meesho.com/categories/wallets.jpg,True
+CAT_6905,Electronics,,1,4316,https://www.meesho.com/category/electronics,https://images.meesho.com/categories/electronics.jpg,True
+CAT_4758,Mobile Accessories,Electronics,2,647,https://www.meesho.com/category/mobile-accessories,https://images.meesho.com/categories/mobile_accessories.jpg,True
+CAT_53,Headphones,Electronics,2,791,https://www.meesho.com/category/headphones,https://images.meesho.com/categories/headphones.jpg,True
+CAT_7822,Chargers,Electronics,2,202,https://www.meesho.com/category/chargers,https://images.meesho.com/categories/chargers.jpg,True
+CAT_5968,Gadgets,Electronics,2,594,https://www.meesho.com/category/gadgets,https://images.meesho.com/categories/gadgets.jpg,True
+CAT_3144,Accessories,,1,585,https://www.meesho.com/category/accessories,https://images.meesho.com/categories/accessories.jpg,True
+CAT_8198,Jewelry,Accessories,2,657,https://www.meesho.com/category/jewelry,https://images.meesho.com/categories/jewelry.jpg,True
+CAT_4187,Watches,Accessories,2,785,https://www.meesho.com/category/watches,https://images.meesho.com/categories/watches.jpg,True
+CAT_1401,Sunglasses,Accessories,2,878,https://www.meesho.com/category/sunglasses,https://images.meesho.com/categories/sunglasses.jpg,True
+CAT_6412,Hair Accessories,Accessories,2,985,https://www.meesho.com/category/hair-accessories,https://images.meesho.com/categories/hair_accessories.jpg,True
+CAT_3017,Sports & Fitness,,1,2404,https://www.meesho.com/category/sports-&-fitness,https://images.meesho.com/categories/sports_&_fitness.jpg,True
+CAT_743,Toys & Games,,1,3508,https://www.meesho.com/category/toys-&-games,https://images.meesho.com/categories/toys_&_games.jpg,True
+CAT_3828,Books,,1,3245,https://www.meesho.com/category/books,https://images.meesho.com/categories/books.jpg,True
+CAT_362,Automotive,,1,2383,https://www.meesho.com/category/automotive,https://images.meesho.com/categories/automotive.jpg,True

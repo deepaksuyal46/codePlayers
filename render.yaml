@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: codeplayers-web
+    runtime: docker
+    dockerfilePath: ./frontend/Dockerfile
+    dockerContext: ./frontend
+    healthCheckPath: /api/health
+    envVars:
+      - key: MONGODB_URI
+        sync: false
+      - key: MONGODB_DB_NAME
+        sync: false
+      - key: APP_ORIGIN
+        sync: false
+      - key: TWOFACTOR_API_KEY
+        sync: false
+      - key: OTP_SECRET
+        generateValue: true
+      - key: PAYMENT_MODE
+        value: demo
+  - type: worker
+    name: codeplayers-worker
+    runtime: docker
+    dockerfilePath: ./frontend/Dockerfile
+    dockerContext: ./frontend
+    dockerCommand: npm run worker
+    envVars:
+      - key: MONGODB_URI
+        fromService:
+          name: codeplayers-web
+          type: web
+          envVarKey: MONGODB_URI
+      - key: MONGODB_DB_NAME
+        fromService:
+          name: codeplayers-web
+          type: web
+          envVarKey: MONGODB_DB_NAME
+      - key: PAYMENT_MODE
+        value: demo

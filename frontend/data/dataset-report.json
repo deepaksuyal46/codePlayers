@@ -1,0 +1,15 @@
+{
+  "products": 1000,
+  "productCategories": 12,
+  "categoryRecords": 51,
+  "sellerRecords": 200,
+  "navigationRecords": 9,
+  "unmatchedSellerNames": 790,
+  "outOfStock": 310,
+  "sourceHashes": {
+    "categories.csv": "0f6f2cce0cf3d439ea7d32f35ab79b255460e35f7ff65c0d4468d05dd221a372",
+    "navigation.csv": "8804929622a8b532337774669c5ebbe0561b01be054b54cbf73dbce314b9a764",
+    "products.csv": "4d3d9c8bb3859e4c07fd1c30f4ea69e30ee17866296d94d724e962aa08d36c3e",
+    "sellers.csv": "d530845a7bac54e86713320025b57a6d419e067e57a5ea98038521f676bf5574"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "codeplayers-market",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0",
+    "typecheck": "tsc --noEmit",
+    "lint": "tsc --noEmit",
+    "seed": "node --import tsx scripts/seed.ts",
+    "db:check": "node --import tsx scripts/check-db.ts",
+    "worker": "node --import tsx scripts/worker.ts",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "test:integration": "node --import tsx scripts/integration.ts",
+    "test:local": "node --import tsx scripts/local-test.ts",
+    "import": "node --import tsx scripts/import.ts",
+    "data:check": "node --import tsx --test tests/dataset.test.ts",
+    "role:set": "node --import tsx scripts/set-role.ts",
+    "test:auth:integration": "node --import tsx scripts/auth-integration.ts"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "mongoose": "9.11.1",
+    "zod": "^4.1.0",
+    "bcryptjs": "^3.0.2",
+    "idb": "^8.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.20.0",
+    "mongodb-memory-server": "^11.0.0"
+  }
+}

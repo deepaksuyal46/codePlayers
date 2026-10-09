@@ -1,0 +1,4024 @@
+[
+  {
+    "kind": "category",
+    "sourceId": "CAT_8966",
+    "record": {
+      "category_id": "CAT_8966",
+      "name": "Women Clothing",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "3661",
+      "url": "https://www.meesho.com/category/women-clothing",
+      "image_url": "https://images.meesho.com/categories/women_clothing.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_9898",
+    "record": {
+      "category_id": "CAT_9898",
+      "name": "Kurtas",
+      "parent_category": "Women Clothing",
+      "level": "2",
+      "product_count": "611",
+      "url": "https://www.meesho.com/category/kurtas",
+      "image_url": "https://images.meesho.com/categories/kurtas.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_6428",
+    "record": {
+      "category_id": "CAT_6428",
+      "name": "Sarees",
+      "parent_category": "Women Clothing",
+      "level": "2",
+      "product_count": "349",
+      "url": "https://www.meesho.com/category/sarees",
+      "image_url": "https://images.meesho.com/categories/sarees.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4385",
+    "record": {
+      "category_id": "CAT_4385",
+      "name": "Dresses",
+      "parent_category": "Women Clothing",
+      "level": "2",
+      "product_count": "902",
+      "url": "https://www.meesho.com/category/dresses",
+      "image_url": "https://images.meesho.com/categories/dresses.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_2504",
+    "record": {
+      "category_id": "CAT_2504",
+      "name": "Tops",
+      "parent_category": "Women Clothing",
+      "level": "2",
+      "product_count": "997",
+      "url": "https://www.meesho.com/category/tops",
+      "image_url": "https://images.meesho.com/categories/tops.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_5883",
+    "record": {
+      "category_id": "CAT_5883",
+      "name": "Suits",
+      "parent_category": "Women Clothing",
+      "level": "2",
+      "product_count": "588",
+      "url": "https://www.meesho.com/category/suits",
+      "image_url": "https://images.meesho.com/categories/suits.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7048",
+    "record": {
+      "category_id": "CAT_7048",
+      "name": "Ethnic Wear",
+      "parent_category": "Women Clothing",
+      "level": "2",
+      "product_count": "202",
+      "url": "https://www.meesho.com/category/ethnic-wear",
+      "image_url": "https://images.meesho.com/categories/ethnic_wear.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_8802",
+    "record": {
+      "category_id": "CAT_8802",
+      "name": "Men Clothing",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "3370",
+      "url": "https://www.meesho.com/category/men-clothing",
+      "image_url": "https://images.meesho.com/categories/men_clothing.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7815",
+    "record": {
+      "category_id": "CAT_7815",
+      "name": "Shirts",
+      "parent_category": "Men Clothing",
+      "level": "2",
+      "product_count": "363",
+      "url": "https://www.meesho.com/category/shirts",
+      "image_url": "https://images.meesho.com/categories/shirts.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7400",
+    "record": {
+      "category_id": "CAT_7400",
+      "name": "T-Shirts",
+      "parent_category": "Men Clothing",
+      "level": "2",
+      "product_count": "746",
+      "url": "https://www.meesho.com/category/t-shirts",
+      "image_url": "https://images.meesho.com/categories/t-shirts.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_2798",
+    "record": {
+      "category_id": "CAT_2798",
+      "name": "Jeans",
+      "parent_category": "Men Clothing",
+      "level": "2",
+      "product_count": "862",
+      "url": "https://www.meesho.com/category/jeans",
+      "image_url": "https://images.meesho.com/categories/jeans.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_9898",
+    "record": {
+      "category_id": "CAT_9898",
+      "name": "Kurtas",
+      "parent_category": "Men Clothing",
+      "level": "2",
+      "product_count": "353",
+      "url": "https://www.meesho.com/category/kurtas",
+      "image_url": "https://images.meesho.com/categories/kurtas.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7048",
+    "record": {
+      "category_id": "CAT_7048",
+      "name": "Ethnic Wear",
+      "parent_category": "Men Clothing",
+      "level": "2",
+      "product_count": "967",
+      "url": "https://www.meesho.com/category/ethnic-wear",
+      "image_url": "https://images.meesho.com/categories/ethnic_wear.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_722",
+    "record": {
+      "category_id": "CAT_722",
+      "name": "Casual Wear",
+      "parent_category": "Men Clothing",
+      "level": "2",
+      "product_count": "322",
+      "url": "https://www.meesho.com/category/casual-wear",
+      "image_url": "https://images.meesho.com/categories/casual_wear.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4486",
+    "record": {
+      "category_id": "CAT_4486",
+      "name": "Kids Clothing",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "1995",
+      "url": "https://www.meesho.com/category/kids-clothing",
+      "image_url": "https://images.meesho.com/categories/kids_clothing.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_8722",
+    "record": {
+      "category_id": "CAT_8722",
+      "name": "Boys Clothing",
+      "parent_category": "Kids Clothing",
+      "level": "2",
+      "product_count": "230",
+      "url": "https://www.meesho.com/category/boys-clothing",
+      "image_url": "https://images.meesho.com/categories/boys_clothing.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4043",
+    "record": {
+      "category_id": "CAT_4043",
+      "name": "Girls Clothing",
+      "parent_category": "Kids Clothing",
+      "level": "2",
+      "product_count": "582",
+      "url": "https://www.meesho.com/category/girls-clothing",
+      "image_url": "https://images.meesho.com/categories/girls_clothing.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_72",
+    "record": {
+      "category_id": "CAT_72",
+      "name": "Baby Clothing",
+      "parent_category": "Kids Clothing",
+      "level": "2",
+      "product_count": "122",
+      "url": "https://www.meesho.com/category/baby-clothing",
+      "image_url": "https://images.meesho.com/categories/baby_clothing.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_3270",
+    "record": {
+      "category_id": "CAT_3270",
+      "name": "School Uniforms",
+      "parent_category": "Kids Clothing",
+      "level": "2",
+      "product_count": "405",
+      "url": "https://www.meesho.com/category/school-uniforms",
+      "image_url": "https://images.meesho.com/categories/school_uniforms.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_6731",
+    "record": {
+      "category_id": "CAT_6731",
+      "name": "Home & Kitchen",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "1250",
+      "url": "https://www.meesho.com/category/home-&-kitchen",
+      "image_url": "https://images.meesho.com/categories/home_&_kitchen.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_3035",
+    "record": {
+      "category_id": "CAT_3035",
+      "name": "Kitchen Appliances",
+      "parent_category": "Home & Kitchen",
+      "level": "2",
+      "product_count": "688",
+      "url": "https://www.meesho.com/category/kitchen-appliances",
+      "image_url": "https://images.meesho.com/categories/kitchen_appliances.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_5606",
+    "record": {
+      "category_id": "CAT_5606",
+      "name": "Home Decor",
+      "parent_category": "Home & Kitchen",
+      "level": "2",
+      "product_count": "143",
+      "url": "https://www.meesho.com/category/home-decor",
+      "image_url": "https://images.meesho.com/categories/home_decor.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_628",
+    "record": {
+      "category_id": "CAT_628",
+      "name": "Bedding",
+      "parent_category": "Home & Kitchen",
+      "level": "2",
+      "product_count": "363",
+      "url": "https://www.meesho.com/category/bedding",
+      "image_url": "https://images.meesho.com/categories/bedding.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4774",
+    "record": {
+      "category_id": "CAT_4774",
+      "name": "Storage",
+      "parent_category": "Home & Kitchen",
+      "level": "2",
+      "product_count": "415",
+      "url": "https://www.meesho.com/category/storage",
+      "image_url": "https://images.meesho.com/categories/storage.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7399",
+    "record": {
+      "category_id": "CAT_7399",
+      "name": "Cleaning",
+      "parent_category": "Home & Kitchen",
+      "level": "2",
+      "product_count": "354",
+      "url": "https://www.meesho.com/category/cleaning",
+      "image_url": "https://images.meesho.com/categories/cleaning.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_9259",
+    "record": {
+      "category_id": "CAT_9259",
+      "name": "Beauty & Health",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "1437",
+      "url": "https://www.meesho.com/category/beauty-&-health",
+      "image_url": "https://images.meesho.com/categories/beauty_&_health.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7691",
+    "record": {
+      "category_id": "CAT_7691",
+      "name": "Skincare",
+      "parent_category": "Beauty & Health",
+      "level": "2",
+      "product_count": "540",
+      "url": "https://www.meesho.com/category/skincare",
+      "image_url": "https://images.meesho.com/categories/skincare.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_5245",
+    "record": {
+      "category_id": "CAT_5245",
+      "name": "Makeup",
+      "parent_category": "Beauty & Health",
+      "level": "2",
+      "product_count": "371",
+      "url": "https://www.meesho.com/category/makeup",
+      "image_url": "https://images.meesho.com/categories/makeup.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7741",
+    "record": {
+      "category_id": "CAT_7741",
+      "name": "Hair Care",
+      "parent_category": "Beauty & Health",
+      "level": "2",
+      "product_count": "134",
+      "url": "https://www.meesho.com/category/hair-care",
+      "image_url": "https://images.meesho.com/categories/hair_care.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_1258",
+    "record": {
+      "category_id": "CAT_1258",
+      "name": "Personal Care",
+      "parent_category": "Beauty & Health",
+      "level": "2",
+      "product_count": "772",
+      "url": "https://www.meesho.com/category/personal-care",
+      "image_url": "https://images.meesho.com/categories/personal_care.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_8471",
+    "record": {
+      "category_id": "CAT_8471",
+      "name": "Health Supplements",
+      "parent_category": "Beauty & Health",
+      "level": "2",
+      "product_count": "532",
+      "url": "https://www.meesho.com/category/health-supplements",
+      "image_url": "https://images.meesho.com/categories/health_supplements.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_9330",
+    "record": {
+      "category_id": "CAT_9330",
+      "name": "Bags & Footwear",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "1529",
+      "url": "https://www.meesho.com/category/bags-&-footwear",
+      "image_url": "https://images.meesho.com/categories/bags_&_footwear.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_2467",
+    "record": {
+      "category_id": "CAT_2467",
+      "name": "Handbags",
+      "parent_category": "Bags & Footwear",
+      "level": "2",
+      "product_count": "728",
+      "url": "https://www.meesho.com/category/handbags",
+      "image_url": "https://images.meesho.com/categories/handbags.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_5288",
+    "record": {
+      "category_id": "CAT_5288",
+      "name": "Shoes",
+      "parent_category": "Bags & Footwear",
+      "level": "2",
+      "product_count": "196",
+      "url": "https://www.meesho.com/category/shoes",
+      "image_url": "https://images.meesho.com/categories/shoes.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4803",
+    "record": {
+      "category_id": "CAT_4803",
+      "name": "Sandals",
+      "parent_category": "Bags & Footwear",
+      "level": "2",
+      "product_count": "518",
+      "url": "https://www.meesho.com/category/sandals",
+      "image_url": "https://images.meesho.com/categories/sandals.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4679",
+    "record": {
+      "category_id": "CAT_4679",
+      "name": "Backpacks",
+      "parent_category": "Bags & Footwear",
+      "level": "2",
+      "product_count": "130",
+      "url": "https://www.meesho.com/category/backpacks",
+      "image_url": "https://images.meesho.com/categories/backpacks.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4734",
+    "record": {
+      "category_id": "CAT_4734",
+      "name": "Wallets",
+      "parent_category": "Bags & Footwear",
+      "level": "2",
+      "product_count": "501",
+      "url": "https://www.meesho.com/category/wallets",
+      "image_url": "https://images.meesho.com/categories/wallets.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_6905",
+    "record": {
+      "category_id": "CAT_6905",
+      "name": "Electronics",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "4316",
+      "url": "https://www.meesho.com/category/electronics",
+      "image_url": "https://images.meesho.com/categories/electronics.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4758",
+    "record": {
+      "category_id": "CAT_4758",
+      "name": "Mobile Accessories",
+      "parent_category": "Electronics",
+      "level": "2",
+      "product_count": "647",
+      "url": "https://www.meesho.com/category/mobile-accessories",
+      "image_url": "https://images.meesho.com/categories/mobile_accessories.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_53",
+    "record": {
+      "category_id": "CAT_53",
+      "name": "Headphones",
+      "parent_category": "Electronics",
+      "level": "2",
+      "product_count": "791",
+      "url": "https://www.meesho.com/category/headphones",
+      "image_url": "https://images.meesho.com/categories/headphones.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_7822",
+    "record": {
+      "category_id": "CAT_7822",
+      "name": "Chargers",
+      "parent_category": "Electronics",
+      "level": "2",
+      "product_count": "202",
+      "url": "https://www.meesho.com/category/chargers",
+      "image_url": "https://images.meesho.com/categories/chargers.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_5968",
+    "record": {
+      "category_id": "CAT_5968",
+      "name": "Gadgets",
+      "parent_category": "Electronics",
+      "level": "2",
+      "product_count": "594",
+      "url": "https://www.meesho.com/category/gadgets",
+      "image_url": "https://images.meesho.com/categories/gadgets.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_3144",
+    "record": {
+      "category_id": "CAT_3144",
+      "name": "Accessories",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "585",
+      "url": "https://www.meesho.com/category/accessories",
+      "image_url": "https://images.meesho.com/categories/accessories.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_8198",
+    "record": {
+      "category_id": "CAT_8198",
+      "name": "Jewelry",
+      "parent_category": "Accessories",
+      "level": "2",
+      "product_count": "657",
+      "url": "https://www.meesho.com/category/jewelry",
+      "image_url": "https://images.meesho.com/categories/jewelry.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_4187",
+    "record": {
+      "category_id": "CAT_4187",
+      "name": "Watches",
+      "parent_category": "Accessories",
+      "level": "2",
+      "product_count": "785",
+      "url": "https://www.meesho.com/category/watches",
+      "image_url": "https://images.meesho.com/categories/watches.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_1401",
+    "record": {
+      "category_id": "CAT_1401",
+      "name": "Sunglasses",
+      "parent_category": "Accessories",
+      "level": "2",
+      "product_count": "878",
+      "url": "https://www.meesho.com/category/sunglasses",
+      "image_url": "https://images.meesho.com/categories/sunglasses.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_6412",
+    "record": {
+      "category_id": "CAT_6412",
+      "name": "Hair Accessories",
+      "parent_category": "Accessories",
+      "level": "2",
+      "product_count": "985",
+      "url": "https://www.meesho.com/category/hair-accessories",
+      "image_url": "https://images.meesho.com/categories/hair_accessories.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_3017",
+    "record": {
+      "category_id": "CAT_3017",
+      "name": "Sports & Fitness",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "2404",
+      "url": "https://www.meesho.com/category/sports-&-fitness",
+      "image_url": "https://images.meesho.com/categories/sports_&_fitness.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_743",
+    "record": {
+      "category_id": "CAT_743",
+      "name": "Toys & Games",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "3508",
+      "url": "https://www.meesho.com/category/toys-&-games",
+      "image_url": "https://images.meesho.com/categories/toys_&_games.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_3828",
+    "record": {
+      "category_id": "CAT_3828",
+      "name": "Books",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "3245",
+      "url": "https://www.meesho.com/category/books",
+      "image_url": "https://images.meesho.com/categories/books.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "category",
+    "sourceId": "CAT_362",
+    "record": {
+      "category_id": "CAT_362",
+      "name": "Automotive",
+      "parent_category": "",
+      "level": "1",
+      "product_count": "2383",
+      "url": "https://www.meesho.com/category/automotive",
+      "image_url": "https://images.meesho.com/categories/automotive.jpg",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10000",
+    "record": {
+      "seller_id": "SELLER_10000",
+      "name": "Seller_1",
+      "rating": "4.2",
+      "total_products": "1390",
+      "years_on_platform": "8",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "24 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10001",
+    "record": {
+      "seller_id": "SELLER_10001",
+      "name": "Seller_2",
+      "rating": "4.6",
+      "total_products": "117",
+      "years_on_platform": "3",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "9 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10002",
+    "record": {
+      "seller_id": "SELLER_10002",
+      "name": "Seller_3",
+      "rating": "3.5",
+      "total_products": "781",
+      "years_on_platform": "7",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "20 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10003",
+    "record": {
+      "seller_id": "SELLER_10003",
+      "name": "Seller_4",
+      "rating": "4.1",
+      "total_products": "521",
+      "years_on_platform": "5",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "20 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10004",
+    "record": {
+      "seller_id": "SELLER_10004",
+      "name": "Seller_5",
+      "rating": "3.6",
+      "total_products": "1942",
+      "years_on_platform": "8",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "12 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10005",
+    "record": {
+      "seller_id": "SELLER_10005",
+      "name": "Seller_6",
+      "rating": "3.8",
+      "total_products": "1533",
+      "years_on_platform": "6",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "12 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10006",
+    "record": {
+      "seller_id": "SELLER_10006",
+      "name": "Seller_7",
+      "rating": "4.4",
+      "total_products": "837",
+      "years_on_platform": "1",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "22 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10007",
+    "record": {
+      "seller_id": "SELLER_10007",
+      "name": "Seller_8",
+      "rating": "4.2",
+      "total_products": "772",
+      "years_on_platform": "4",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "21 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10008",
+    "record": {
+      "seller_id": "SELLER_10008",
+      "name": "Seller_9",
+      "rating": "3.7",
+      "total_products": "202",
+      "years_on_platform": "1",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10009",
+    "record": {
+      "seller_id": "SELLER_10009",
+      "name": "Seller_10",
+      "rating": "4.6",
+      "total_products": "1569",
+      "years_on_platform": "6",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10010",
+    "record": {
+      "seller_id": "SELLER_10010",
+      "name": "Seller_11",
+      "rating": "3.9",
+      "total_products": "873",
+      "years_on_platform": "5",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "24 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10011",
+    "record": {
+      "seller_id": "SELLER_10011",
+      "name": "Seller_12",
+      "rating": "3.6",
+      "total_products": "1360",
+      "years_on_platform": "4",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "9 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10012",
+    "record": {
+      "seller_id": "SELLER_10012",
+      "name": "Seller_13",
+      "rating": "4.6",
+      "total_products": "296",
+      "years_on_platform": "7",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "16 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10013",
+    "record": {
+      "seller_id": "SELLER_10013",
+      "name": "Seller_14",
+      "rating": "4.8",
+      "total_products": "1086",
+      "years_on_platform": "2",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "20 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10014",
+    "record": {
+      "seller_id": "SELLER_10014",
+      "name": "Seller_15",
+      "rating": "3.7",
+      "total_products": "523",
+      "years_on_platform": "4",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "4 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10015",
+    "record": {
+      "seller_id": "SELLER_10015",
+      "name": "Seller_16",
+      "rating": "4.4",
+      "total_products": "1030",
+      "years_on_platform": "6",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10016",
+    "record": {
+      "seller_id": "SELLER_10016",
+      "name": "Seller_17",
+      "rating": "4.5",
+      "total_products": "1093",
+      "years_on_platform": "4",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10017",
+    "record": {
+      "seller_id": "SELLER_10017",
+      "name": "Seller_18",
+      "rating": "4.4",
+      "total_products": "849",
+      "years_on_platform": "5",
+      "location": "Ahmedabad",
+      "verified": "True",
+      "response_time": "16 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10018",
+    "record": {
+      "seller_id": "SELLER_10018",
+      "name": "Seller_19",
+      "rating": "3.6",
+      "total_products": "966",
+      "years_on_platform": "5",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "8 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10019",
+    "record": {
+      "seller_id": "SELLER_10019",
+      "name": "Seller_20",
+      "rating": "4.2",
+      "total_products": "1565",
+      "years_on_platform": "3",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "9 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10020",
+    "record": {
+      "seller_id": "SELLER_10020",
+      "name": "Seller_21",
+      "rating": "4.7",
+      "total_products": "1842",
+      "years_on_platform": "4",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "20 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10021",
+    "record": {
+      "seller_id": "SELLER_10021",
+      "name": "Seller_22",
+      "rating": "3.8",
+      "total_products": "1839",
+      "years_on_platform": "1",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10022",
+    "record": {
+      "seller_id": "SELLER_10022",
+      "name": "Seller_23",
+      "rating": "3.5",
+      "total_products": "1488",
+      "years_on_platform": "7",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "2 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10023",
+    "record": {
+      "seller_id": "SELLER_10023",
+      "name": "Seller_24",
+      "rating": "3.8",
+      "total_products": "1016",
+      "years_on_platform": "8",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "3 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10024",
+    "record": {
+      "seller_id": "SELLER_10024",
+      "name": "Seller_25",
+      "rating": "4.7",
+      "total_products": "1410",
+      "years_on_platform": "1",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "11 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10025",
+    "record": {
+      "seller_id": "SELLER_10025",
+      "name": "Seller_26",
+      "rating": "4.2",
+      "total_products": "1124",
+      "years_on_platform": "7",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "8 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10026",
+    "record": {
+      "seller_id": "SELLER_10026",
+      "name": "Seller_27",
+      "rating": "3.6",
+      "total_products": "759",
+      "years_on_platform": "5",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10027",
+    "record": {
+      "seller_id": "SELLER_10027",
+      "name": "Seller_28",
+      "rating": "3.9",
+      "total_products": "1751",
+      "years_on_platform": "1",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "13 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10028",
+    "record": {
+      "seller_id": "SELLER_10028",
+      "name": "Seller_29",
+      "rating": "3.6",
+      "total_products": "1653",
+      "years_on_platform": "7",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "3 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10029",
+    "record": {
+      "seller_id": "SELLER_10029",
+      "name": "Seller_30",
+      "rating": "4.8",
+      "total_products": "463",
+      "years_on_platform": "3",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10030",
+    "record": {
+      "seller_id": "SELLER_10030",
+      "name": "Seller_31",
+      "rating": "4.6",
+      "total_products": "1628",
+      "years_on_platform": "2",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "19 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10031",
+    "record": {
+      "seller_id": "SELLER_10031",
+      "name": "Seller_32",
+      "rating": "4.2",
+      "total_products": "594",
+      "years_on_platform": "5",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "1 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10032",
+    "record": {
+      "seller_id": "SELLER_10032",
+      "name": "Seller_33",
+      "rating": "4.2",
+      "total_products": "769",
+      "years_on_platform": "3",
+      "location": "Pune",
+      "verified": "False",
+      "response_time": "24 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10033",
+    "record": {
+      "seller_id": "SELLER_10033",
+      "name": "Seller_34",
+      "rating": "4.7",
+      "total_products": "142",
+      "years_on_platform": "6",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10034",
+    "record": {
+      "seller_id": "SELLER_10034",
+      "name": "Seller_35",
+      "rating": "3.5",
+      "total_products": "822",
+      "years_on_platform": "7",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "22 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10035",
+    "record": {
+      "seller_id": "SELLER_10035",
+      "name": "Seller_36",
+      "rating": "4.6",
+      "total_products": "482",
+      "years_on_platform": "7",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "3 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10036",
+    "record": {
+      "seller_id": "SELLER_10036",
+      "name": "Seller_37",
+      "rating": "4.7",
+      "total_products": "808",
+      "years_on_platform": "4",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "24 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10037",
+    "record": {
+      "seller_id": "SELLER_10037",
+      "name": "Seller_38",
+      "rating": "3.9",
+      "total_products": "1056",
+      "years_on_platform": "1",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10038",
+    "record": {
+      "seller_id": "SELLER_10038",
+      "name": "Seller_39",
+      "rating": "3.6",
+      "total_products": "238",
+      "years_on_platform": "3",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "22 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10039",
+    "record": {
+      "seller_id": "SELLER_10039",
+      "name": "Seller_40",
+      "rating": "4.4",
+      "total_products": "342",
+      "years_on_platform": "2",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "9 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10040",
+    "record": {
+      "seller_id": "SELLER_10040",
+      "name": "Seller_41",
+      "rating": "4.4",
+      "total_products": "496",
+      "years_on_platform": "3",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "15 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10041",
+    "record": {
+      "seller_id": "SELLER_10041",
+      "name": "Seller_42",
+      "rating": "4.5",
+      "total_products": "337",
+      "years_on_platform": "1",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "12 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10042",
+    "record": {
+      "seller_id": "SELLER_10042",
+      "name": "Seller_43",
+      "rating": "4.2",
+      "total_products": "303",
+      "years_on_platform": "3",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "1 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10043",
+    "record": {
+      "seller_id": "SELLER_10043",
+      "name": "Seller_44",
+      "rating": "3.8",
+      "total_products": "1195",
+      "years_on_platform": "2",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10044",
+    "record": {
+      "seller_id": "SELLER_10044",
+      "name": "Seller_45",
+      "rating": "4.6",
+      "total_products": "922",
+      "years_on_platform": "8",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10045",
+    "record": {
+      "seller_id": "SELLER_10045",
+      "name": "Seller_46",
+      "rating": "4.8",
+      "total_products": "1911",
+      "years_on_platform": "2",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "4 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10046",
+    "record": {
+      "seller_id": "SELLER_10046",
+      "name": "Seller_47",
+      "rating": "4.2",
+      "total_products": "205",
+      "years_on_platform": "8",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "9 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10047",
+    "record": {
+      "seller_id": "SELLER_10047",
+      "name": "Seller_48",
+      "rating": "4.1",
+      "total_products": "1865",
+      "years_on_platform": "3",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "13 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10048",
+    "record": {
+      "seller_id": "SELLER_10048",
+      "name": "Seller_49",
+      "rating": "4.2",
+      "total_products": "776",
+      "years_on_platform": "3",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "14 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10049",
+    "record": {
+      "seller_id": "SELLER_10049",
+      "name": "Seller_50",
+      "rating": "4.4",
+      "total_products": "1441",
+      "years_on_platform": "4",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10050",
+    "record": {
+      "seller_id": "SELLER_10050",
+      "name": "Seller_51",
+      "rating": "3.7",
+      "total_products": "1516",
+      "years_on_platform": "1",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "3 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10051",
+    "record": {
+      "seller_id": "SELLER_10051",
+      "name": "Seller_52",
+      "rating": "3.8",
+      "total_products": "950",
+      "years_on_platform": "5",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "5 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10052",
+    "record": {
+      "seller_id": "SELLER_10052",
+      "name": "Seller_53",
+      "rating": "4.8",
+      "total_products": "1047",
+      "years_on_platform": "7",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "20 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10053",
+    "record": {
+      "seller_id": "SELLER_10053",
+      "name": "Seller_54",
+      "rating": "3.7",
+      "total_products": "1234",
+      "years_on_platform": "1",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "22 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10054",
+    "record": {
+      "seller_id": "SELLER_10054",
+      "name": "Seller_55",
+      "rating": "4.1",
+      "total_products": "1965",
+      "years_on_platform": "5",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "7 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10055",
+    "record": {
+      "seller_id": "SELLER_10055",
+      "name": "Seller_56",
+      "rating": "4.6",
+      "total_products": "1922",
+      "years_on_platform": "4",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "17 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10056",
+    "record": {
+      "seller_id": "SELLER_10056",
+      "name": "Seller_57",
+      "rating": "4.0",
+      "total_products": "434",
+      "years_on_platform": "3",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10057",
+    "record": {
+      "seller_id": "SELLER_10057",
+      "name": "Seller_58",
+      "rating": "4.8",
+      "total_products": "1091",
+      "years_on_platform": "4",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "11 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10058",
+    "record": {
+      "seller_id": "SELLER_10058",
+      "name": "Seller_59",
+      "rating": "4.1",
+      "total_products": "1954",
+      "years_on_platform": "5",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "20 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10059",
+    "record": {
+      "seller_id": "SELLER_10059",
+      "name": "Seller_60",
+      "rating": "4.7",
+      "total_products": "1006",
+      "years_on_platform": "4",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "11 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10060",
+    "record": {
+      "seller_id": "SELLER_10060",
+      "name": "Seller_61",
+      "rating": "3.8",
+      "total_products": "731",
+      "years_on_platform": "1",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "21 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10061",
+    "record": {
+      "seller_id": "SELLER_10061",
+      "name": "Seller_62",
+      "rating": "4.2",
+      "total_products": "518",
+      "years_on_platform": "1",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "13 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10062",
+    "record": {
+      "seller_id": "SELLER_10062",
+      "name": "Seller_63",
+      "rating": "4.0",
+      "total_products": "1176",
+      "years_on_platform": "2",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10063",
+    "record": {
+      "seller_id": "SELLER_10063",
+      "name": "Seller_64",
+      "rating": "3.8",
+      "total_products": "856",
+      "years_on_platform": "3",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10064",
+    "record": {
+      "seller_id": "SELLER_10064",
+      "name": "Seller_65",
+      "rating": "3.9",
+      "total_products": "940",
+      "years_on_platform": "8",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "14 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10065",
+    "record": {
+      "seller_id": "SELLER_10065",
+      "name": "Seller_66",
+      "rating": "4.7",
+      "total_products": "472",
+      "years_on_platform": "4",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "14 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10066",
+    "record": {
+      "seller_id": "SELLER_10066",
+      "name": "Seller_67",
+      "rating": "4.4",
+      "total_products": "734",
+      "years_on_platform": "4",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "13 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10067",
+    "record": {
+      "seller_id": "SELLER_10067",
+      "name": "Seller_68",
+      "rating": "4.5",
+      "total_products": "1322",
+      "years_on_platform": "4",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "17 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10068",
+    "record": {
+      "seller_id": "SELLER_10068",
+      "name": "Seller_69",
+      "rating": "4.3",
+      "total_products": "576",
+      "years_on_platform": "6",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "5 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10069",
+    "record": {
+      "seller_id": "SELLER_10069",
+      "name": "Seller_70",
+      "rating": "4.6",
+      "total_products": "1417",
+      "years_on_platform": "1",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "17 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10070",
+    "record": {
+      "seller_id": "SELLER_10070",
+      "name": "Seller_71",
+      "rating": "3.6",
+      "total_products": "1465",
+      "years_on_platform": "3",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "12 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10071",
+    "record": {
+      "seller_id": "SELLER_10071",
+      "name": "Seller_72",
+      "rating": "4.4",
+      "total_products": "73",
+      "years_on_platform": "7",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "9 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10072",
+    "record": {
+      "seller_id": "SELLER_10072",
+      "name": "Seller_73",
+      "rating": "4.6",
+      "total_products": "1793",
+      "years_on_platform": "5",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "10 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10073",
+    "record": {
+      "seller_id": "SELLER_10073",
+      "name": "Seller_74",
+      "rating": "4.4",
+      "total_products": "806",
+      "years_on_platform": "1",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "10 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10074",
+    "record": {
+      "seller_id": "SELLER_10074",
+      "name": "Seller_75",
+      "rating": "4.4",
+      "total_products": "319",
+      "years_on_platform": "4",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "5 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10075",
+    "record": {
+      "seller_id": "SELLER_10075",
+      "name": "Seller_76",
+      "rating": "4.3",
+      "total_products": "1759",
+      "years_on_platform": "6",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10076",
+    "record": {
+      "seller_id": "SELLER_10076",
+      "name": "Seller_77",
+      "rating": "4.8",
+      "total_products": "1113",
+      "years_on_platform": "6",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "5 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10077",
+    "record": {
+      "seller_id": "SELLER_10077",
+      "name": "Seller_78",
+      "rating": "4.3",
+      "total_products": "1897",
+      "years_on_platform": "1",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "9 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10078",
+    "record": {
+      "seller_id": "SELLER_10078",
+      "name": "Seller_79",
+      "rating": "3.7",
+      "total_products": "533",
+      "years_on_platform": "2",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10079",
+    "record": {
+      "seller_id": "SELLER_10079",
+      "name": "Seller_80",
+      "rating": "4.1",
+      "total_products": "1188",
+      "years_on_platform": "4",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "19 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10080",
+    "record": {
+      "seller_id": "SELLER_10080",
+      "name": "Seller_81",
+      "rating": "4.5",
+      "total_products": "585",
+      "years_on_platform": "1",
+      "location": "Pune",
+      "verified": "False",
+      "response_time": "21 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10081",
+    "record": {
+      "seller_id": "SELLER_10081",
+      "name": "Seller_82",
+      "rating": "4.0",
+      "total_products": "1013",
+      "years_on_platform": "6",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10082",
+    "record": {
+      "seller_id": "SELLER_10082",
+      "name": "Seller_83",
+      "rating": "4.0",
+      "total_products": "1652",
+      "years_on_platform": "8",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "5 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10083",
+    "record": {
+      "seller_id": "SELLER_10083",
+      "name": "Seller_84",
+      "rating": "3.5",
+      "total_products": "1076",
+      "years_on_platform": "2",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10084",
+    "record": {
+      "seller_id": "SELLER_10084",
+      "name": "Seller_85",
+      "rating": "4.1",
+      "total_products": "921",
+      "years_on_platform": "1",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10085",
+    "record": {
+      "seller_id": "SELLER_10085",
+      "name": "Seller_86",
+      "rating": "3.5",
+      "total_products": "619",
+      "years_on_platform": "6",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "11 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10086",
+    "record": {
+      "seller_id": "SELLER_10086",
+      "name": "Seller_87",
+      "rating": "3.6",
+      "total_products": "1980",
+      "years_on_platform": "6",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "19 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10087",
+    "record": {
+      "seller_id": "SELLER_10087",
+      "name": "Seller_88",
+      "rating": "4.8",
+      "total_products": "1014",
+      "years_on_platform": "1",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10088",
+    "record": {
+      "seller_id": "SELLER_10088",
+      "name": "Seller_89",
+      "rating": "4.9",
+      "total_products": "1681",
+      "years_on_platform": "5",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "1 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10089",
+    "record": {
+      "seller_id": "SELLER_10089",
+      "name": "Seller_90",
+      "rating": "4.3",
+      "total_products": "1967",
+      "years_on_platform": "5",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "17 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10090",
+    "record": {
+      "seller_id": "SELLER_10090",
+      "name": "Seller_91",
+      "rating": "3.9",
+      "total_products": "885",
+      "years_on_platform": "3",
+      "location": "Ahmedabad",
+      "verified": "True",
+      "response_time": "23 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10091",
+    "record": {
+      "seller_id": "SELLER_10091",
+      "name": "Seller_92",
+      "rating": "4.2",
+      "total_products": "1954",
+      "years_on_platform": "6",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10092",
+    "record": {
+      "seller_id": "SELLER_10092",
+      "name": "Seller_93",
+      "rating": "4.5",
+      "total_products": "271",
+      "years_on_platform": "2",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "22 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10093",
+    "record": {
+      "seller_id": "SELLER_10093",
+      "name": "Seller_94",
+      "rating": "4.1",
+      "total_products": "773",
+      "years_on_platform": "3",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10094",
+    "record": {
+      "seller_id": "SELLER_10094",
+      "name": "Seller_95",
+      "rating": "4.8",
+      "total_products": "1298",
+      "years_on_platform": "8",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "13 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10095",
+    "record": {
+      "seller_id": "SELLER_10095",
+      "name": "Seller_96",
+      "rating": "3.7",
+      "total_products": "1710",
+      "years_on_platform": "2",
+      "location": "Pune",
+      "verified": "False",
+      "response_time": "20 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10096",
+    "record": {
+      "seller_id": "SELLER_10096",
+      "name": "Seller_97",
+      "rating": "3.6",
+      "total_products": "1950",
+      "years_on_platform": "3",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "17 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10097",
+    "record": {
+      "seller_id": "SELLER_10097",
+      "name": "Seller_98",
+      "rating": "4.8",
+      "total_products": "469",
+      "years_on_platform": "5",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "15 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10098",
+    "record": {
+      "seller_id": "SELLER_10098",
+      "name": "Seller_99",
+      "rating": "4.1",
+      "total_products": "1311",
+      "years_on_platform": "2",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10099",
+    "record": {
+      "seller_id": "SELLER_10099",
+      "name": "Seller_100",
+      "rating": "4.7",
+      "total_products": "1889",
+      "years_on_platform": "5",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "14 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10100",
+    "record": {
+      "seller_id": "SELLER_10100",
+      "name": "Seller_101",
+      "rating": "3.8",
+      "total_products": "922",
+      "years_on_platform": "3",
+      "location": "Ahmedabad",
+      "verified": "True",
+      "response_time": "13 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10101",
+    "record": {
+      "seller_id": "SELLER_10101",
+      "name": "Seller_102",
+      "rating": "4.0",
+      "total_products": "254",
+      "years_on_platform": "3",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10102",
+    "record": {
+      "seller_id": "SELLER_10102",
+      "name": "Seller_103",
+      "rating": "3.7",
+      "total_products": "553",
+      "years_on_platform": "2",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "11 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10103",
+    "record": {
+      "seller_id": "SELLER_10103",
+      "name": "Seller_104",
+      "rating": "4.9",
+      "total_products": "1449",
+      "years_on_platform": "7",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "14 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10104",
+    "record": {
+      "seller_id": "SELLER_10104",
+      "name": "Seller_105",
+      "rating": "4.3",
+      "total_products": "862",
+      "years_on_platform": "3",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "24 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10105",
+    "record": {
+      "seller_id": "SELLER_10105",
+      "name": "Seller_106",
+      "rating": "4.4",
+      "total_products": "716",
+      "years_on_platform": "3",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "22 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10106",
+    "record": {
+      "seller_id": "SELLER_10106",
+      "name": "Seller_107",
+      "rating": "4.2",
+      "total_products": "1808",
+      "years_on_platform": "4",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "11 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10107",
+    "record": {
+      "seller_id": "SELLER_10107",
+      "name": "Seller_108",
+      "rating": "4.1",
+      "total_products": "854",
+      "years_on_platform": "2",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "21 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10108",
+    "record": {
+      "seller_id": "SELLER_10108",
+      "name": "Seller_109",
+      "rating": "3.8",
+      "total_products": "1917",
+      "years_on_platform": "4",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "5 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10109",
+    "record": {
+      "seller_id": "SELLER_10109",
+      "name": "Seller_110",
+      "rating": "4.8",
+      "total_products": "950",
+      "years_on_platform": "1",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "5 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10110",
+    "record": {
+      "seller_id": "SELLER_10110",
+      "name": "Seller_111",
+      "rating": "4.6",
+      "total_products": "165",
+      "years_on_platform": "2",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "17 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10111",
+    "record": {
+      "seller_id": "SELLER_10111",
+      "name": "Seller_112",
+      "rating": "4.3",
+      "total_products": "1158",
+      "years_on_platform": "1",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10112",
+    "record": {
+      "seller_id": "SELLER_10112",
+      "name": "Seller_113",
+      "rating": "4.9",
+      "total_products": "126",
+      "years_on_platform": "5",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "11 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10113",
+    "record": {
+      "seller_id": "SELLER_10113",
+      "name": "Seller_114",
+      "rating": "3.5",
+      "total_products": "945",
+      "years_on_platform": "8",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "20 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10114",
+    "record": {
+      "seller_id": "SELLER_10114",
+      "name": "Seller_115",
+      "rating": "4.7",
+      "total_products": "1109",
+      "years_on_platform": "8",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10115",
+    "record": {
+      "seller_id": "SELLER_10115",
+      "name": "Seller_116",
+      "rating": "4.8",
+      "total_products": "445",
+      "years_on_platform": "8",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "2 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10116",
+    "record": {
+      "seller_id": "SELLER_10116",
+      "name": "Seller_117",
+      "rating": "4.8",
+      "total_products": "1335",
+      "years_on_platform": "3",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10117",
+    "record": {
+      "seller_id": "SELLER_10117",
+      "name": "Seller_118",
+      "rating": "3.7",
+      "total_products": "152",
+      "years_on_platform": "8",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "16 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10118",
+    "record": {
+      "seller_id": "SELLER_10118",
+      "name": "Seller_119",
+      "rating": "4.6",
+      "total_products": "293",
+      "years_on_platform": "2",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "19 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10119",
+    "record": {
+      "seller_id": "SELLER_10119",
+      "name": "Seller_120",
+      "rating": "4.8",
+      "total_products": "1898",
+      "years_on_platform": "8",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10120",
+    "record": {
+      "seller_id": "SELLER_10120",
+      "name": "Seller_121",
+      "rating": "4.3",
+      "total_products": "509",
+      "years_on_platform": "2",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "7 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10121",
+    "record": {
+      "seller_id": "SELLER_10121",
+      "name": "Seller_122",
+      "rating": "4.9",
+      "total_products": "764",
+      "years_on_platform": "6",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10122",
+    "record": {
+      "seller_id": "SELLER_10122",
+      "name": "Seller_123",
+      "rating": "4.8",
+      "total_products": "325",
+      "years_on_platform": "8",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "16 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10123",
+    "record": {
+      "seller_id": "SELLER_10123",
+      "name": "Seller_124",
+      "rating": "3.7",
+      "total_products": "367",
+      "years_on_platform": "8",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "6 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10124",
+    "record": {
+      "seller_id": "SELLER_10124",
+      "name": "Seller_125",
+      "rating": "4.6",
+      "total_products": "63",
+      "years_on_platform": "6",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10125",
+    "record": {
+      "seller_id": "SELLER_10125",
+      "name": "Seller_126",
+      "rating": "3.8",
+      "total_products": "1017",
+      "years_on_platform": "8",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10126",
+    "record": {
+      "seller_id": "SELLER_10126",
+      "name": "Seller_127",
+      "rating": "4.1",
+      "total_products": "247",
+      "years_on_platform": "7",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "24 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10127",
+    "record": {
+      "seller_id": "SELLER_10127",
+      "name": "Seller_128",
+      "rating": "4.3",
+      "total_products": "1847",
+      "years_on_platform": "4",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10128",
+    "record": {
+      "seller_id": "SELLER_10128",
+      "name": "Seller_129",
+      "rating": "4.0",
+      "total_products": "573",
+      "years_on_platform": "6",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "15 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10129",
+    "record": {
+      "seller_id": "SELLER_10129",
+      "name": "Seller_130",
+      "rating": "4.2",
+      "total_products": "1000",
+      "years_on_platform": "3",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "14 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10130",
+    "record": {
+      "seller_id": "SELLER_10130",
+      "name": "Seller_131",
+      "rating": "3.6",
+      "total_products": "683",
+      "years_on_platform": "5",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "5 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10131",
+    "record": {
+      "seller_id": "SELLER_10131",
+      "name": "Seller_132",
+      "rating": "3.7",
+      "total_products": "476",
+      "years_on_platform": "8",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "1 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10132",
+    "record": {
+      "seller_id": "SELLER_10132",
+      "name": "Seller_133",
+      "rating": "4.4",
+      "total_products": "865",
+      "years_on_platform": "2",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "15 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10133",
+    "record": {
+      "seller_id": "SELLER_10133",
+      "name": "Seller_134",
+      "rating": "3.7",
+      "total_products": "1901",
+      "years_on_platform": "2",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "5 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10134",
+    "record": {
+      "seller_id": "SELLER_10134",
+      "name": "Seller_135",
+      "rating": "4.7",
+      "total_products": "1788",
+      "years_on_platform": "3",
+      "location": "Hyderabad",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10135",
+    "record": {
+      "seller_id": "SELLER_10135",
+      "name": "Seller_136",
+      "rating": "4.6",
+      "total_products": "1416",
+      "years_on_platform": "3",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "20 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10136",
+    "record": {
+      "seller_id": "SELLER_10136",
+      "name": "Seller_137",
+      "rating": "3.6",
+      "total_products": "999",
+      "years_on_platform": "7",
+      "location": "Pune",
+      "verified": "False",
+      "response_time": "20 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10137",
+    "record": {
+      "seller_id": "SELLER_10137",
+      "name": "Seller_138",
+      "rating": "3.6",
+      "total_products": "106",
+      "years_on_platform": "5",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10138",
+    "record": {
+      "seller_id": "SELLER_10138",
+      "name": "Seller_139",
+      "rating": "4.3",
+      "total_products": "787",
+      "years_on_platform": "5",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "19 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10139",
+    "record": {
+      "seller_id": "SELLER_10139",
+      "name": "Seller_140",
+      "rating": "4.1",
+      "total_products": "868",
+      "years_on_platform": "6",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "15 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10140",
+    "record": {
+      "seller_id": "SELLER_10140",
+      "name": "Seller_141",
+      "rating": "4.6",
+      "total_products": "164",
+      "years_on_platform": "8",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "17 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10141",
+    "record": {
+      "seller_id": "SELLER_10141",
+      "name": "Seller_142",
+      "rating": "4.4",
+      "total_products": "274",
+      "years_on_platform": "4",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10142",
+    "record": {
+      "seller_id": "SELLER_10142",
+      "name": "Seller_143",
+      "rating": "4.6",
+      "total_products": "1789",
+      "years_on_platform": "2",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10143",
+    "record": {
+      "seller_id": "SELLER_10143",
+      "name": "Seller_144",
+      "rating": "4.5",
+      "total_products": "372",
+      "years_on_platform": "7",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10144",
+    "record": {
+      "seller_id": "SELLER_10144",
+      "name": "Seller_145",
+      "rating": "4.2",
+      "total_products": "308",
+      "years_on_platform": "2",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "22 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10145",
+    "record": {
+      "seller_id": "SELLER_10145",
+      "name": "Seller_146",
+      "rating": "4.6",
+      "total_products": "1849",
+      "years_on_platform": "5",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "23 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10146",
+    "record": {
+      "seller_id": "SELLER_10146",
+      "name": "Seller_147",
+      "rating": "4.3",
+      "total_products": "364",
+      "years_on_platform": "6",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10147",
+    "record": {
+      "seller_id": "SELLER_10147",
+      "name": "Seller_148",
+      "rating": "3.8",
+      "total_products": "88",
+      "years_on_platform": "8",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "2 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10148",
+    "record": {
+      "seller_id": "SELLER_10148",
+      "name": "Seller_149",
+      "rating": "4.3",
+      "total_products": "321",
+      "years_on_platform": "6",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10149",
+    "record": {
+      "seller_id": "SELLER_10149",
+      "name": "Seller_150",
+      "rating": "4.7",
+      "total_products": "188",
+      "years_on_platform": "1",
+      "location": "Chennai",
+      "verified": "True",
+      "response_time": "18 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10150",
+    "record": {
+      "seller_id": "SELLER_10150",
+      "name": "Seller_151",
+      "rating": "3.7",
+      "total_products": "446",
+      "years_on_platform": "3",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "15 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10151",
+    "record": {
+      "seller_id": "SELLER_10151",
+      "name": "Seller_152",
+      "rating": "4.7",
+      "total_products": "413",
+      "years_on_platform": "3",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "22 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10152",
+    "record": {
+      "seller_id": "SELLER_10152",
+      "name": "Seller_153",
+      "rating": "4.6",
+      "total_products": "488",
+      "years_on_platform": "5",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "19 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10153",
+    "record": {
+      "seller_id": "SELLER_10153",
+      "name": "Seller_154",
+      "rating": "4.1",
+      "total_products": "342",
+      "years_on_platform": "6",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10154",
+    "record": {
+      "seller_id": "SELLER_10154",
+      "name": "Seller_155",
+      "rating": "3.8",
+      "total_products": "1131",
+      "years_on_platform": "8",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10155",
+    "record": {
+      "seller_id": "SELLER_10155",
+      "name": "Seller_156",
+      "rating": "4.3",
+      "total_products": "1648",
+      "years_on_platform": "8",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "14 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10156",
+    "record": {
+      "seller_id": "SELLER_10156",
+      "name": "Seller_157",
+      "rating": "3.8",
+      "total_products": "1832",
+      "years_on_platform": "2",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "21 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10157",
+    "record": {
+      "seller_id": "SELLER_10157",
+      "name": "Seller_158",
+      "rating": "4.8",
+      "total_products": "870",
+      "years_on_platform": "6",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10158",
+    "record": {
+      "seller_id": "SELLER_10158",
+      "name": "Seller_159",
+      "rating": "4.1",
+      "total_products": "668",
+      "years_on_platform": "6",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "7 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10159",
+    "record": {
+      "seller_id": "SELLER_10159",
+      "name": "Seller_160",
+      "rating": "4.0",
+      "total_products": "1181",
+      "years_on_platform": "2",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "16 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10160",
+    "record": {
+      "seller_id": "SELLER_10160",
+      "name": "Seller_161",
+      "rating": "4.6",
+      "total_products": "804",
+      "years_on_platform": "1",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "14 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10161",
+    "record": {
+      "seller_id": "SELLER_10161",
+      "name": "Seller_162",
+      "rating": "4.8",
+      "total_products": "540",
+      "years_on_platform": "2",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "18 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10162",
+    "record": {
+      "seller_id": "SELLER_10162",
+      "name": "Seller_163",
+      "rating": "3.9",
+      "total_products": "1912",
+      "years_on_platform": "5",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10163",
+    "record": {
+      "seller_id": "SELLER_10163",
+      "name": "Seller_164",
+      "rating": "4.6",
+      "total_products": "58",
+      "years_on_platform": "6",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10164",
+    "record": {
+      "seller_id": "SELLER_10164",
+      "name": "Seller_165",
+      "rating": "3.7",
+      "total_products": "1489",
+      "years_on_platform": "3",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "11 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10165",
+    "record": {
+      "seller_id": "SELLER_10165",
+      "name": "Seller_166",
+      "rating": "4.8",
+      "total_products": "1691",
+      "years_on_platform": "2",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "8 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10166",
+    "record": {
+      "seller_id": "SELLER_10166",
+      "name": "Seller_167",
+      "rating": "3.7",
+      "total_products": "100",
+      "years_on_platform": "3",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10167",
+    "record": {
+      "seller_id": "SELLER_10167",
+      "name": "Seller_168",
+      "rating": "3.8",
+      "total_products": "395",
+      "years_on_platform": "1",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10168",
+    "record": {
+      "seller_id": "SELLER_10168",
+      "name": "Seller_169",
+      "rating": "4.2",
+      "total_products": "931",
+      "years_on_platform": "4",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "4 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10169",
+    "record": {
+      "seller_id": "SELLER_10169",
+      "name": "Seller_170",
+      "rating": "3.9",
+      "total_products": "429",
+      "years_on_platform": "2",
+      "location": "Kolkata",
+      "verified": "False",
+      "response_time": "18 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10170",
+    "record": {
+      "seller_id": "SELLER_10170",
+      "name": "Seller_171",
+      "rating": "4.7",
+      "total_products": "821",
+      "years_on_platform": "2",
+      "location": "Surat",
+      "verified": "True",
+      "response_time": "1 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10171",
+    "record": {
+      "seller_id": "SELLER_10171",
+      "name": "Seller_172",
+      "rating": "4.5",
+      "total_products": "1652",
+      "years_on_platform": "8",
+      "location": "Mumbai",
+      "verified": "True",
+      "response_time": "4 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10172",
+    "record": {
+      "seller_id": "SELLER_10172",
+      "name": "Seller_173",
+      "rating": "4.6",
+      "total_products": "1266",
+      "years_on_platform": "3",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10173",
+    "record": {
+      "seller_id": "SELLER_10173",
+      "name": "Seller_174",
+      "rating": "3.8",
+      "total_products": "721",
+      "years_on_platform": "4",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "6 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10174",
+    "record": {
+      "seller_id": "SELLER_10174",
+      "name": "Seller_175",
+      "rating": "4.0",
+      "total_products": "1518",
+      "years_on_platform": "8",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10175",
+    "record": {
+      "seller_id": "SELLER_10175",
+      "name": "Seller_176",
+      "rating": "3.5",
+      "total_products": "990",
+      "years_on_platform": "8",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "8 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10176",
+    "record": {
+      "seller_id": "SELLER_10176",
+      "name": "Seller_177",
+      "rating": "3.7",
+      "total_products": "1009",
+      "years_on_platform": "1",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "1 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10177",
+    "record": {
+      "seller_id": "SELLER_10177",
+      "name": "Seller_178",
+      "rating": "4.8",
+      "total_products": "1112",
+      "years_on_platform": "5",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "10 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10178",
+    "record": {
+      "seller_id": "SELLER_10178",
+      "name": "Seller_179",
+      "rating": "4.1",
+      "total_products": "591",
+      "years_on_platform": "7",
+      "location": "Surat",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10179",
+    "record": {
+      "seller_id": "SELLER_10179",
+      "name": "Seller_180",
+      "rating": "3.7",
+      "total_products": "1309",
+      "years_on_platform": "4",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "4 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10180",
+    "record": {
+      "seller_id": "SELLER_10180",
+      "name": "Seller_181",
+      "rating": "4.4",
+      "total_products": "1659",
+      "years_on_platform": "5",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "8 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10181",
+    "record": {
+      "seller_id": "SELLER_10181",
+      "name": "Seller_182",
+      "rating": "4.6",
+      "total_products": "1118",
+      "years_on_platform": "7",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "18 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10182",
+    "record": {
+      "seller_id": "SELLER_10182",
+      "name": "Seller_183",
+      "rating": "4.4",
+      "total_products": "1640",
+      "years_on_platform": "7",
+      "location": "Jaipur",
+      "verified": "False",
+      "response_time": "7 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10183",
+    "record": {
+      "seller_id": "SELLER_10183",
+      "name": "Seller_184",
+      "rating": "4.9",
+      "total_products": "1759",
+      "years_on_platform": "6",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "6 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10184",
+    "record": {
+      "seller_id": "SELLER_10184",
+      "name": "Seller_185",
+      "rating": "4.8",
+      "total_products": "497",
+      "years_on_platform": "8",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10185",
+    "record": {
+      "seller_id": "SELLER_10185",
+      "name": "Seller_186",
+      "rating": "4.2",
+      "total_products": "1455",
+      "years_on_platform": "6",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10186",
+    "record": {
+      "seller_id": "SELLER_10186",
+      "name": "Seller_187",
+      "rating": "3.8",
+      "total_products": "910",
+      "years_on_platform": "8",
+      "location": "Ahmedabad",
+      "verified": "False",
+      "response_time": "23 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10187",
+    "record": {
+      "seller_id": "SELLER_10187",
+      "name": "Seller_188",
+      "rating": "3.6",
+      "total_products": "691",
+      "years_on_platform": "5",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "12 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10188",
+    "record": {
+      "seller_id": "SELLER_10188",
+      "name": "Seller_189",
+      "rating": "4.9",
+      "total_products": "744",
+      "years_on_platform": "5",
+      "location": "Chennai",
+      "verified": "False",
+      "response_time": "19 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10189",
+    "record": {
+      "seller_id": "SELLER_10189",
+      "name": "Seller_190",
+      "rating": "4.3",
+      "total_products": "1012",
+      "years_on_platform": "6",
+      "location": "Delhi",
+      "verified": "False",
+      "response_time": "15 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10190",
+    "record": {
+      "seller_id": "SELLER_10190",
+      "name": "Seller_191",
+      "rating": "3.9",
+      "total_products": "640",
+      "years_on_platform": "4",
+      "location": "Mumbai",
+      "verified": "False",
+      "response_time": "14 hours",
+      "return_policy": "15 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10191",
+    "record": {
+      "seller_id": "SELLER_10191",
+      "name": "Seller_192",
+      "rating": "4.6",
+      "total_products": "196",
+      "years_on_platform": "7",
+      "location": "Jaipur",
+      "verified": "True",
+      "response_time": "12 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10192",
+    "record": {
+      "seller_id": "SELLER_10192",
+      "name": "Seller_193",
+      "rating": "3.6",
+      "total_products": "610",
+      "years_on_platform": "4",
+      "location": "Bangalore",
+      "verified": "False",
+      "response_time": "10 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10193",
+    "record": {
+      "seller_id": "SELLER_10193",
+      "name": "Seller_194",
+      "rating": "4.6",
+      "total_products": "1816",
+      "years_on_platform": "7",
+      "location": "Hyderabad",
+      "verified": "False",
+      "response_time": "16 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10194",
+    "record": {
+      "seller_id": "SELLER_10194",
+      "name": "Seller_195",
+      "rating": "4.4",
+      "total_products": "1065",
+      "years_on_platform": "4",
+      "location": "Pune",
+      "verified": "True",
+      "response_time": "18 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10195",
+    "record": {
+      "seller_id": "SELLER_10195",
+      "name": "Seller_196",
+      "rating": "4.1",
+      "total_products": "1016",
+      "years_on_platform": "4",
+      "location": "Ahmedabad",
+      "verified": "True",
+      "response_time": "2 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10196",
+    "record": {
+      "seller_id": "SELLER_10196",
+      "name": "Seller_197",
+      "rating": "3.7",
+      "total_products": "890",
+      "years_on_platform": "4",
+      "location": "Ahmedabad",
+      "verified": "True",
+      "response_time": "13 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10197",
+    "record": {
+      "seller_id": "SELLER_10197",
+      "name": "Seller_198",
+      "rating": "4.2",
+      "total_products": "1522",
+      "years_on_platform": "1",
+      "location": "Bangalore",
+      "verified": "True",
+      "response_time": "23 hours",
+      "return_policy": "7 days",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10198",
+    "record": {
+      "seller_id": "SELLER_10198",
+      "name": "Seller_199",
+      "rating": "4.6",
+      "total_products": "1861",
+      "years_on_platform": "3",
+      "location": "Kolkata",
+      "verified": "True",
+      "response_time": "16 hours",
+      "return_policy": "No return",
+      "cod_accepted": "True"
+    }
+  },
+  {
+    "kind": "seller",
+    "sourceId": "SELLER_10199",
+    "record": {
+      "seller_id": "SELLER_10199",
+      "name": "Seller_200",
+      "rating": "4.6",
+      "total_products": "798",
+      "years_on_platform": "5",
+      "location": "Delhi",
+      "verified": "True",
+      "response_time": "11 hours",
+      "return_policy": "No return",
+      "cod_accepted": "False"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_825",
+    "record": {
+      "nav_id": "NAV_825",
+      "title": "Women Ethnic",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/women-ethnic",
+      "order": "0",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_275",
+    "record": {
+      "nav_id": "NAV_275",
+      "title": "Women Western",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/women-western",
+      "order": "1",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_361",
+    "record": {
+      "nav_id": "NAV_361",
+      "title": "Men",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/men",
+      "order": "2",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_606",
+    "record": {
+      "nav_id": "NAV_606",
+      "title": "Kids",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/kids",
+      "order": "3",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_731",
+    "record": {
+      "nav_id": "NAV_731",
+      "title": "Home & Kitchen",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/home-and-kitchen",
+      "order": "4",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_259",
+    "record": {
+      "nav_id": "NAV_259",
+      "title": "Beauty & Health",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/beauty-and-health",
+      "order": "5",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_71",
+    "record": {
+      "nav_id": "NAV_71",
+      "title": "Jewellery & Accessories",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/jewellery-and-accessories",
+      "order": "6",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_330",
+    "record": {
+      "nav_id": "NAV_330",
+      "title": "Bags & Footwear",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/bags-and-footwear",
+      "order": "7",
+      "is_active": "True"
+    }
+  },
+  {
+    "kind": "navigation",
+    "sourceId": "NAV_905",
+    "record": {
+      "nav_id": "NAV_905",
+      "title": "Electronics",
+      "type": "main_menu",
+      "url": "https://www.meesho.com/electronics",
+      "order": "8",
+      "is_active": "True"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+nav_id,title,type,url,order,is_active
+NAV_825,Women Ethnic,main_menu,https://www.meesho.com/women-ethnic,0,True
+NAV_275,Women Western,main_menu,https://www.meesho.com/women-western,1,True
+NAV_361,Men,main_menu,https://www.meesho.com/men,2,True
+NAV_606,Kids,main_menu,https://www.meesho.com/kids,3,True
+NAV_731,Home & Kitchen,main_menu,https://www.meesho.com/home-and-kitchen,4,True
+NAV_259,Beauty & Health,main_menu,https://www.meesho.com/beauty-and-health,5,True
+NAV_71,Jewellery & Accessories,main_menu,https://www.meesho.com/jewellery-and-accessories,6,True
+NAV_330,Bags & Footwear,main_menu,https://www.meesho.com/bags-and-footwear,7,True
+NAV_905,Electronics,main_menu,https://www.meesho.com/electronics,8,True
